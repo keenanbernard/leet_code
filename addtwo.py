@@ -15,6 +15,8 @@ class Solution(object):
         for i in l2_indexes:
             two.append(l2[i])
 
+            print(l1_index)
+
         return one, two
 
 
